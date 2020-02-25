@@ -3,7 +3,7 @@
     "description": "Log database queries for Laravel project",
 	"license": "MIT",
     "require": {
-        "illuminate/support": "^5"
+        "illuminate/support": ">=5.0"
     },
     "authors": [
         {
